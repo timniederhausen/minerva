@@ -1,0 +1,11 @@
+* text=auto
+
+*.java text
+*.py text
+*.tex text
+*.sty text
+*.md text
+
+*.bat text eol=crlf
+
+*.sh text eol=lf
